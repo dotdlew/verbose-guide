@@ -1,4 +1,4 @@
 # verbose-guide
-The Conscience of a Hacker - Manifesto_by_The Mentor.txt
+Manifesto_by_The Mentor.txt - The Conscience of a Hacker
 
-Hackers 1995 movie script - hackers_1995.txt
+hackers_1995.txt - Hackers 1995 movie script
